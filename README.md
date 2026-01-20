@@ -87,8 +87,3 @@ CustomerChurnDL/
 - Experiment with **Transformer-based models** for tabular data.  
 - Deploy as a **web app** using Streamlit/Gradio.  
 - Integrate **Explainable AI (SHAP/LIME)** for model interpretability.  
-
----
-
-
-Would you like me to also generate a **requirements.txt** tailored for DL (TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) so your repo is fully ready to run?
